@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/augmeteur
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://augmeteur.github.io
+  * I am augmeteur (https://keybase.io/augmeteur) on keybase.
+  * I have a public key ASBCLeVONGcTrFdaSXRd1hi_MvF4btZDqpmljM_bgJndVgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120422de54e346713ac575a49745dd618bf32f1786ed643aa99a58ccfdb8099dd560a",
+      "host": "keybase.io",
+      "kid": "0120422de54e346713ac575a49745dd618bf32f1786ed643aa99a58ccfdb8099dd560a",
+      "uid": "527cfa48e51424d811f1ddf565db1b19",
+      "username": "augmeteur"
+    },
+    "merkle_root": {
+      "ctime": 1537238566,
+      "hash": "a0778ad63d42c6e0048b29fea4e857ea9ee99a807cf7e9969e8792beb4fb9eb77c55dcf3f82cc30d0a204941e1f377bd4c147a60dea77baf12f797a686716809",
+      "hash_meta": "4bf58b859236b98850d4fcfdcaec44504a3a666fdf996d7b71b4ab432a2c431e",
+      "seqno": 3623694
+    },
+    "service": {
+      "entropy": "YgNMFJ5P8nuN9F6B9BtCkCjW",
+      "hostname": "augmeteur.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.0"
+  },
+  "ctime": 1537238573,
+  "expire_in": 504576000,
+  "prev": "2dac534442daca71af9f97e45d02bae840f2acc2f7038271817a2f6f8c4a3089",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQi3lTjRnE6xXWkl0XdYYvzLxeG7WQ6qZpYzP24CZ3VYKp3BheWxvYWTESpcCB8QgLaxTRELaynGvn5fkXQK66EDyrML3A4JxgXovb4xKMInEIMUXjTWQOLz9hnalNeQwzv0JE6CWf9dDM92Ci/K6s5VeAgHCo3NpZ8RA0q6jfmHwVWa5T1jG/S+zpk5lWhT/NgvJ0Vr+w/8KuBUKlEiSvVyzllPy2idAi3S8fMDorM0Li8R2dA7SOsmAAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGyptAuST7XWDbhRpzbhR5gUM46vJyw6csqjE71X6zdPo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/augmeteur
+
+==================================================================
